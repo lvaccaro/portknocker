@@ -1,6 +1,4 @@
 PORT KNOCKER SERVER
-autore: Mattia Cafagna
-progetto per il corso di: Sistemi di elaborazione dell'informazione
 
 Il server effettua il servizio di port knocking sulle porte locali del dispositivo di rete (predefinito eth0).
 Il knock è inteso come tentativo di connessione da parte di un client ad una determinata porta.
